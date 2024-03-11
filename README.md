@@ -1,6 +1,6 @@
 ![logo](https://github.com/pramodgiri2468/pramodgiri2468/blob/master/Blue%20Textured%20Space%20Landscape%20Hello%20World%20Desktop%20Wallpaper.png)
 <h1 align="center">Hi 👋, I'm Pramod Giri</h1>
-<h3 align="center">I'm passionate about technology, especially Python, artificial intelligence (AI), and web development. With a background in computer science, I enjoy exploring how Python can be used in AI and web development. Let's dive into these exciting fields together and learn more about how they can shape our world!.</h3>
+<h3 align="center">I'm passionate about technology, especially Python, artificial intelligence (AI), and web development. With a background in computer science, I enjoy exploring how Python can be used in AI and web development.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodgiri2468&label=Profile%20views&color=0e75b6&style=flat" alt="pramodgiri2468" /> </p>
 
